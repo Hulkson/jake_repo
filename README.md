@@ -1,6 +1,6 @@
-# jake_repo
-# Hello
 
-# take a look and contact me form my Porfolio ---> https://j-folio.com/
+# Hello my friend 🙌🙌🙌
 
-# ----thanks you so much----
+# take a look or contact me from my Porfolio --> https://j-folio.com/
+
+# ----❤️thanks you so much❤️----
