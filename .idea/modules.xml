@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/ComPro/ComPro.iml" filepath="$PROJECT_DIR$/基本/ComPro/ComPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/Dyu0729/Dyu0729.iml" filepath="$PROJECT_DIR$/基本/Dyu0729/Dyu0729.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/Dyu0803/Dyu0803.iml" filepath="$PROJECT_DIR$/基本/Dyu0803/Dyu0803.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/DyuMethod/DyuMethod.iml" filepath="$PROJECT_DIR$/基本/DyuMethod/DyuMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonancci/Fibonancci.iml" filepath="$PROJECT_DIR$/Fibonancci/Fibonancci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/FirstPro/FirstPro.iml" filepath="$PROJECT_DIR$/基本/FirstPro/FirstPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基本/MyMethod/MyMethod.iml" filepath="$PROJECT_DIR$/基本/MyMethod/MyMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProgram/MyProgram.iml" filepath="$PROJECT_DIR$/MyProgram/MyProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0617/P0617.iml" filepath="$PROJECT_DIR$/P0617/P0617.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0624/P0624.iml" filepath="$PROJECT_DIR$/P0624/P0624.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0701/P0701.iml" filepath="$PROJECT_DIR$/P0701/P0701.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0715/P0715.iml" filepath="$PROJECT_DIR$/P0715/P0715.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProArray/ProArray.iml" filepath="$PROJECT_DIR$/ProArray/ProArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProClass/ProClass.iml" filepath="$PROJECT_DIR$/ProClass/ProClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondPro/SecondPro.iml" filepath="$PROJECT_DIR$/SecondPro/SecondPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestCode/TestCode.iml" filepath="$PROJECT_DIR$/TestCode/TestCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJava/TestJava.iml" filepath="$PROJECT_DIR$/TestJava/TestJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdPro/ThirdPro.iml" filepath="$PROJECT_DIR$/ThirdPro/ThirdPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" filepath="$PROJECT_DIR$/isPrimeNumber/isPrimeNumber.iml" />
+    </modules>
+  </component>
+</project>
